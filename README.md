@@ -1,8 +1,8 @@
 # Sentiment Classification
 
-This project is to build a sentiment classifier to classify restaurant reviews using Bag of Words. It is an Assignment for an AI course.
+This project is to build a sentiment classifier to classify restaurant reviews.
 
-The data I used is in [reviews.csv](reviews.csv). The detailed instruction is in [Instruction.pdf](Instruction.pdf).
+It has two approaches. One is using Bag of Words in Sklearn, the other is using the AWD_LSTM in fastai.
 
 * First, I split the data into training and test dataset.
 * Second, I binned the ratings in the training dataset into negative (ratings 1 & 2), neutral (rating 3) and positive
