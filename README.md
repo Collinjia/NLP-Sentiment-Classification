@@ -1,6 +1,6 @@
 # Sentiment Classification
 
-This project is to build a sentiment classifier to classify restaurant reviews. Data is in [review.csv](review.csv）.
+This project is to build a sentiment classifier to classify restaurant reviews. Data is in [reviews.csv](reviews.csv）.
 
 It has two approaches. One is using [**Bag of Words in Sklearn**](BagofWords_Approach.ipynb), the other is using the [**ULMfit in fastai**](Fastai_Approach.ipynb).
 
